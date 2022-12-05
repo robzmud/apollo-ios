@@ -24,7 +24,7 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/stephencelis/SQLite.swift.git",
+      url: "https://github.com/robzmud/SQLite.swift.git",
       .upToNextMajor(from: "0.13.1")),
     .package(
       url: "https://github.com/mattt/InflectorKit",
